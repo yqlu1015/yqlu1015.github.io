@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mortar_board: Graduated with a Bachelor's degree from [SUSTech](https://www.sustech.edu.cn/en/)
+:mortar_board: Graduated with a Bachelor's degree from [SUSTech](https://www.sustech.edu.cn/en/).
