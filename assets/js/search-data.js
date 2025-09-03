@@ -392,7 +392,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-mortar-board-graduated-with-a-bachelor-s-degree-from-sustech",
-          title: ':mortar_board: Graduated with a Bachelor’s degree from SUSTech',
+          title: ':mortar_board: Graduated with a Bachelor’s degree from SUSTech.',
           description: "",
           section: "News",},{id: "news-my-first-paper-got-accepted-to-ieee-globecom-2023",
           title: 'My first paper got accepted to IEEE GLOBECOM 2023!',
@@ -400,8 +400,8 @@ ninja.data = [{
           section: "News",},{id: "news-joined-nokia-wi-fi-center-of-excellence-as-a-summer-research-intern-at-sunnyvale-ca",
           title: 'Joined Nokia Wi-Fi Center of Excellence as a Summer Research Intern at Sunnyvale,...',
           description: "",
-          section: "News",},{id: "news-one-paper-accepted-by-icml-2025-ml4wireless-workshop",
-          title: 'One paper accepted by ICML 2025 ML4Wireless Workshop',
+          section: "News",},{id: "news-one-paper-accepted-and-a-student-travel-grant-received-at-the-icml-2025-workshop-on-ml4wireless",
+          title: 'One paper accepted and a student travel grant received at the ICML 2025...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
