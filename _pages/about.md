@@ -23,9 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my homepage! I am a second-year master's student at the University of Southern California, majoring in computer science. My research interests lie in large language model (LLM), deep reinforcement learning (DRL), and the real-world applications of general machine learning methods.
+Welcome to my homepage! I am a second-year master's student at the University of Southern California, majoring in computer science. My research interests lie in large language model (LLM), deep reinforcement learning (DRL), and general machine learning methods for decision-making.
 
-:loudspeaker: **I am actively seeking PhD opportunities starting Spring or Fall 2026. Please feel free to contact me if you are interested in my profile.**
+:loudspeaker: **I am actively seeking PhD opportunities starting Fall 2026. Please feel free to contact me if you are interested in my profile.**
 
 In Summer 2025, I worked as a research intern in Nokia’s Wi-Fi research group, focusing on applying on-device LLMs for multi-task wireless control, with an emphasis on device-to-device communication and [context-aware Wi-Fi roaming](https://github.com/abman23/on-device-llm-wifi-roaming). Prior to this, I was a member of the Wireless Devices and Systems (WiDeS) Group at the USC Viterbi School of Engineering, where I conducted research on [autonomous base station deployment](https://github.com/abman23/autobs) using DRL.
 
