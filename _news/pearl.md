@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to [AI4NextG @ NeurIPS'25](https://ai4nextg.github.io/).
+[PEARL](https://arxiv.org/pdf/2509.24085) was accepted to [AI4NextG @ NeurIPS'25](https://ai4nextg.github.io/) and was selected for an **oral presentation**.
